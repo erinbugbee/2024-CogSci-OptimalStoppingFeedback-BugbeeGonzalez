@@ -5,4 +5,4 @@ PDF: https://escholarship.org/uc/item/57b644z2
 
 OSF (Code and Materials): https://osf.io/bqxhz/
 
-Poster: Coming Soon
+Poster: [2024CogSci_OptimalStoppingFeedback_Poster_BugbeeGonzalez.pdf](2024CogSci_OptimalStoppingFeedback_Poster_BugbeeGonzalez.pdf)
